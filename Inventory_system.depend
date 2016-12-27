@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1481286019 source:c:\users\justin\documents\school\2016\fall 2016\csc 500 programming problem solving\homeworks\inventory_system\main.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	"Product.h"
+	"Inventory.h"
+
+1481274199 c:\users\justin\documents\school\2016\fall 2016\csc 500 programming problem solving\homeworks\inventory_system\include\product.h
+	<iostream>
+	<string>
+	"Location.h"
+
+1481284026 c:\users\justin\documents\school\2016\fall 2016\csc 500 programming problem solving\homeworks\inventory_system\include\inventory.h
+	"ProductLinkedList.h"
+	<vector>
+
+1481278119 c:\users\justin\documents\school\2016\fall 2016\csc 500 programming problem solving\homeworks\inventory_system\include\productlinkedlist.h
+	"Product.h"
+	<iostream>
+	<string>
+
+1481185842 c:\users\justin\documents\school\2016\fall 2016\csc 500 programming problem solving\homeworks\inventory_system\include\location.h
+	<iostream>
+	<string>
+
+1481185865 source:c:\users\justin\documents\school\2016\fall 2016\csc 500 programming problem solving\homeworks\inventory_system\src\location.cpp
+	"Location.h"
+	<iostream>
+	<string>
+
+1481275125 source:c:\users\justin\documents\school\2016\fall 2016\csc 500 programming problem solving\homeworks\inventory_system\src\product.cpp
+	"Product.h"
+	<iostream>
+	<string>
+	<ctime>
+	<cstdlib>
+	<sstream>
+
+1481284489 source:c:\users\justin\documents\school\2016\fall 2016\csc 500 programming problem solving\homeworks\inventory_system\src\inventory.cpp
+	"Inventory.h"
+	<iostream>
+	<string>
+	<sstream>
+	<vector>
+
+1481283533 source:c:\users\justin\documents\school\2016\fall 2016\csc 500 programming problem solving\homeworks\inventory_system\src\productlinkedlist.cpp
+	"ProductLinkedList.h"
+
